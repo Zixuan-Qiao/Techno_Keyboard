@@ -9,14 +9,14 @@ To make music, more than one tone is needed. Thus, four phototransistors are inc
 ## Workflow
 **setup**
 
-Automatically calibrate each phototransistor in **real-time** according to the current state of the environment. The onboard LED will light up to indicate such process. 
+Automatically calibrates each phototransistor in **real-time** according to the current state of the environment. The onboard LED will light up to indicate such process. 
 
 **loop**
 
-1. check the state of each phototransistor and generate the combination; turn on LEDs that are associated with covered phototransistors.
-2. calculate the frequency based on the combination.
-3. sound the piezo with the frequency. 
-
+1. check the state of each phototransistor and generate the combination with **bit manipulation**; turn on LEDs that are associated with covered phototransistors
+2. calculate the frequency based on the combination
+3. sound the piezo with the frequency
+   
 ## Schematic
 <img width="500" alt="schematic" src="https://github.com/Zixuan-Qiao/Techno_Keyboard/assets/102449059/4f8c8cfe-6bf3-434e-8421-f424c1b7966c">
 
