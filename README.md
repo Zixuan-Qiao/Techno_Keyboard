@@ -4,7 +4,7 @@ An arduino-based keyboard that can play techno music.
 ## Introduction
 The design is mainly based on the features of phototransistors. When a phototransistor is covered from light, the current it generates will decrease significantly. The input from phototransistor is analog, but with a threshold, it can be turned into two states: covered and not covered. 
 
-If a tone is associated with the covered state, a phototransistor can act like a key on a musical keyboard. Compared to keys and buttons, phototransistors provides more flexibility in control. It allows the users to control the keyboard contactlessly through gestures. 
+If a tone is associated with the covered state, a phototransistor can act like a key on a musical keyboard. Compared to keys and buttons, phototransistors provides more flexibility in control. It allows the users to control the keyboard **contactlessly through gestures**. 
 
 To make music, more than one tone is needed. Thus, four phototransistors are included to produce 2^4 combinations for controlling **16 different tones**. The tones are converted into frequencies, which can be played by a piezo. 
 
