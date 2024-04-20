@@ -26,9 +26,3 @@ Automatically calibrates each phototransistor in **real-time** according to the 
 <img height="500" align="top" alt="hardware1" src="https://github.com/Zixuan-Qiao/Techno_Keyboard/assets/102449059/9ef64fa9-4c57-404e-ad1f-19b4c71827f5">
 
 <img height="500" align="top" alt="hardware2" src="https://github.com/Zixuan-Qiao/Techno_Keyboard/assets/102449059/f4ee60e7-9780-4aaa-945d-2aae9c95b4e8">
-
-## Language
-C/C++
-
-## Author
-Zixuan (Alex) Qiao
